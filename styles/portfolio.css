@@ -161,3 +161,6 @@ nav a {
     text-align: center; 
     margin-top: 50px;  
 }
+footer{
+    display: flex;
+}
